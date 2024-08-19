@@ -1,0 +1,2 @@
+account_sid = 'AC4283c29887b4ab767d583ac6e3f579dd'
+auth_token = 'feb7ac6506be073c8f4e89f8ffc76684'
